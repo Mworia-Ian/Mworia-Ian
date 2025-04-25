@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [ianmworia.netlify.app/](http://ianmworia.netlify.app/)
+* 🖥️  See my portfolio at [ianmworia.netlify.app/](https://www.ianmworia.dev/)
 * ✉️  You can contact me at [ianmworia156@gmail.com](mailto:ianmworia156@gmail.com)
 * 🚀  I'm currently working on [https://spearafrica.vercel.app/](http://https://spearafrica.vercel.app/)
 * ⚡  I'm secretly a Man Utd fan, but don't tell anyone.
