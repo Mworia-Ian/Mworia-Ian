@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [ianmworia.dev/](https://www.ianmworia.dev/)
 * ✉️  You can contact me at [ianmworia156@gmail.com](mailto:ianmworia156@gmail.com)
-* 🚀  I'm currently working on [https://spearafrica.vercel.app/](http://https://spearafrica.vercel.app/)
+* 🚀  I'm currently working on [https://spearafrica.vercel.app/](http://https://spearsports.ke)
 
 <a href="https://www.github.com/Mworia-Ian" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mworia-Ian?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
